@@ -4,11 +4,11 @@ What we will be hitting in this project
 
 - [ ] LRU Cache from scratch : in memory js map + doubly linked list (O(1))
     - [x] Get method
-    - [ ] Set method
+    - [x] Set method
     - [x] Moving the node to head
-    - [ ] Adding the node to head
-    - [ ] removing the node
-    - [ ] evicting the tail
+    - [x] Adding the node to head
+    - [x] removing the node
+    - [x] evicting the tail
 
 - [ ] Redis : `ioredis` using redis with nestJs for the first time
 
